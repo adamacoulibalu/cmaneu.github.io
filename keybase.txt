@@ -1,0 +1,80 @@
+https://keybase.io/cmaneu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://log.maneu.net
+  * I am cmaneu (https://keybase.io/cmaneu) on keybase.
+  * I have a public key with fingerprint 5D08 16DB 966D 257F 9840  2470 6FDA B282 5ACE 3240
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.8"
+        },
+        "key": {
+            "fingerprint": "5d0816db966d257f984024706fdab2825ace3240",
+            "host": "keybase.io",
+            "key_id": "6FDAB2825ACE3240",
+            "uid": "1741261f81ee612e6c6fdcadc30f5119",
+            "username": "cmaneu"
+        },
+        "merkle_root": {
+            "ctime": 1430317813,
+            "hash": "e5c8bedbb19501ebd4208abf291b813858f5967b423a322d9c8209139ead5fefc71d0ceb5a58723d33ce110011855160e8f38f68
+60d84a0a4aa19a6bed9d4963",
+            "seqno": 212620
+        },
+        "service": {
+            "hostname": "log.maneu.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1430317907,
+    "expire_in": 157680000,
+    "prev": "14208203d4a3a4af3bbe64dd9517e10b23f64ad915544087687ea327664af2fb",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFVkntQFVUcxy9ohFAXhUgYMZiFmTTxcs6+FwolERW0MoIxFK/7OMtdHruXey8I
+IlPqJKJCPkdsqGkEpyYeA0kqmDJzc6YcDEQD4iGBRin4mKZJESLaJZry/HUen9/3
+9/v+fufQ83NM3h5a35e709rxlR5tdwVTysqx5CJM0KRCLLoIE7MVpLqMncrnICwa
+y0KFAu9EFkULUzUJWTKdYbNMJJaPHE5FU3UKWBgLixVHGrgRLCtqBnLYHYqhhVES
+YCEtCRxNSzjFyBxLApxkAC1LvICzOMWLiMBJoEvaNKfrqazYjKZVkfRbOiE+7nWD
+j1u1epbPm3mADAlxGsosRIiGOKJFXVrkJZEAMgUhZ4BO5Ji1JObwKsozqs1Bjqxs
+ZHVo2oxl0aUYACQJQECGhYReD++06SGIElkBSYIAOQpAJEgkDlhekHEOCjrHUqxM
+cTQjkDjBEzgucSKLAw4SHOIlSkayyEAJiEigeIplcEIiCBFBCACELEVBGiBWJliZ
+ZmkgsSQPeJLnIcfTekpOIjma0A04Ua6qYdG4bhQHxcbZka+IyKjbaNqst2wtwzJj
+z6IiY0R2h+bSRC1bf7K5XPZow7Wr0G6g25Fgddb+o2IVFFXSZ/b/oUIdfbojHGAi
+MVRgVxzIqhgExdAs0JeRB+UbgzD6ggNCInlCNyETgoBoUpI4CjIIAgEnZJrkJQ5S
+FEkCVg9nkN4whtZvZVwW/vNJ6nXyGbqkU8lQeVeeA2HFpZ4hc00e3iavZzyNX2vy
+mTf/369cn+I3FSo8620KPDLitSdsiSlu6m3wCwWa3yXip2wh/rfihqnqxAfN3e7R
+tKtPIn4vqTx4Z1d4w4c3pgb7sFPq0HN7h1qH1/e/WQ7LOqvf933h5J9uZWr7aLfn
+K4n5N3fX1/1a7LjWl2rzE0/3X3g8Ue0ftbQ7IdbnykhZHV/z1TnTJVeeM6C69fPe
+VKJrcWiLu93Sc3NN2wVaKSjZR5VHpc/rHZ0cn1sn8J2B5vTbJlR+9t75gda0OQ9X
+JO0KOJL51qjbkki69x9+QH3zTueJW5Tn1tCJkCrsytIVO5uuJRUUbgoyLw787W69
+vxecsJ45lvuGuMVdcezFskM9j9WOveHfLxxatqa2qVG7nlxT8VrJDdvBKPMp+7jo
+51FRsHP6+Nj5nkZbkGeib1jEWMCrF22bcxcc/2K6at2eDyLTR/N++po8d0ldlOB5
+4sD4RnHzlgUb4sdHvJMzN7RMklVxNWfM4r6BH6eDYpwb19aZzJNN5fMHsj5tP9DV
+e/nj2yf/iMGzPcw+6b61QcHBH/n1hG31jTl8dYe50tzhfg9fta7//mc1L12X/zqd
+dKeneTiwvYwqPLr2YkNj4/rajvJH+6MfeXdnpx1t62pYfn9bBLeopLQ2eDihrZT+
+dghsi33yXeXlxvAfbEVTS35eOFK06Wz/J00PXxbz7VRq4uDyloSgEmvKoBi07F5e
+LKyL2fE3
+=9yOj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cmaneu
