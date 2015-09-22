@@ -19,13 +19,6 @@ twitter_handle: '@cmaneu'
 name: 'Christopher Maneu'
 author: 'Christopher Maneu'
 author_image: "/assets/images/chris.png"
-author :
-  name : Christopher Maneu
-  email : hello@maneu.net
-  github : cmaneu
-  twitter : cmaneu
-  feedburner : feedname
-
 
 social:
   - icon: twitter
