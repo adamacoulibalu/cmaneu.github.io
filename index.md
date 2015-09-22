@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Codelicious
+title: Codelicious - Christopher Maneu's blog
 ---
 {% include JB/setup %}
 
-My blog is under migration. It's pretty ugly during this time.
 
 <ul class="posts">
   {% for post in site.posts %}

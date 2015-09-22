@@ -7,7 +7,12 @@ highlighter: pygments
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
-#
+
+#blog logo
+logo: "/assets/images/favicon.png"
+# blog cover
+cover: "/assets/images/background.jpg"
+
 title : Codelicious
 tagline: Christopher Maneu tech blog
 twitter_handle: '@cmaneu'
