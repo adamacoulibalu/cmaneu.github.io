@@ -16,6 +16,9 @@ cover: "/assets/images/background.jpg"
 title : Codelicious
 tagline: Christopher Maneu tech blog
 twitter_handle: '@cmaneu'
+name: 'Christopher Maneu'
+author: 'Christopher Maneu'
+author_image: "/assets/images/chris.png"
 author :
   name : Christopher Maneu
   email : hello@maneu.net
@@ -23,6 +26,21 @@ author :
   twitter : cmaneu
   feedburner : feedname
 
+
+social:
+  - icon: twitter
+    url:  https://twitter.com/cmaneu
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon: github
+    url:  https://github.com/cmaneu
+    desc: Fork me on github
+    share_url:
+    share_title:
+    share_link:
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
