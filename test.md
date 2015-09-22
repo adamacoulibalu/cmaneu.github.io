@@ -8,7 +8,7 @@ image: /content/page_images/1.jpg
 # Test page
 Testing...
 
-{% highlight ruby %}
+{% highlight csharp %}
 def print_hi(name)
   puts "Hi, #{name}"
 end
